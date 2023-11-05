@@ -21,11 +21,6 @@ h1 {
     margin: 0;
 }
 
-h3 {
-    background: #808080;
-    padding: 20px;
-}
-
 p {
     line-height: 1.4em;
 }
@@ -41,4 +36,9 @@ p {
 .blog-post img {
     max-width: 20%;
     height: auto;
+}
+
+.form-example {
+    background: #808080;
+    padding: 20px;
 }
