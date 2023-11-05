@@ -29,6 +29,20 @@ p img {
     float: right;
 }
 
+img.no-float {
+    float: none;
+}
+
+.image-container {
+    float: right;
+    margin: 10px;
+}
+
+.caption {
+    text-align: center;
+    font-style: italic;
+}
+
 .flex-container {
     display: flex;
     justify-content: space-between;
