@@ -27,7 +27,8 @@ p {
 
 .sticky {
     background: #ccc;
-    position: sticky
+    position: sticky;
+    top: 0;
 }
 
 #blog {
