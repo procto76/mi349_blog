@@ -7,18 +7,23 @@ body {
     margin: 40px;
     padding: 40px;
     color: #242424;
-    border-top: 10px solid #242424;
+    border-top: 20px solid #242424;
     background: #fff;
 }
 
 header {
     background: #ccc;
-    padding: 40px;
+    padding: 30px;
 }
 
 h1 {
     font-size: 3em;
     margin: 0;
+}
+
+h3 {
+    background: #808080;
+    padding: 20px;
 }
 
 p {
@@ -30,7 +35,7 @@ p {
 }
 
 .blog-post {
-    border-bottom: 1px dotted #ccc;
+    border-bottom: 1px dotted #505050;
 }
 
 .blog-post img {
