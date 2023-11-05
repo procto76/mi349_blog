@@ -33,7 +33,7 @@ img.no-float {
     float: none;
 }
 
-.image-container {
+.image-container img {
     float: right;
 }
 
