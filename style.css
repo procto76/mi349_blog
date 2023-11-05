@@ -32,3 +32,8 @@ p {
 .blog-post {
     border-bottom: 1px dotted #ccc;
 }
+
+.blog-post img {
+    max-width: 20%;
+    height: auto;
+}
