@@ -29,7 +29,7 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #ccc;
+    background: #5c5c5c;
     font-size: larger;
     position: sticky;
     top: 0;
@@ -43,7 +43,7 @@ p {
 .flex-links li {
     margin-left: 20px;
     margin-right: 20px;
-    background: #c0cadf;
+    background: #b3b3b3;
     padding: 15px;
 }
 
@@ -61,7 +61,7 @@ p {
 }
 
 .form-example {
-    background: #aaaaaa;
+    background: #ccc;
     padding-top: 10px;
     margin-top: 10px;
     padding-bottom: 10px;
