@@ -33,12 +33,17 @@ img.no-float {
     float: none;
 }
 
+.image-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
 .image-container img {
     float: right;
 }
 
 .caption {
-    text-align: right;
+    text-align: center;
     font-style: italic;
 }
 
