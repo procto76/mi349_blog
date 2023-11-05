@@ -77,3 +77,12 @@ p {
 .form-contact {
     margin-bottom: 20px;
 }
+
+table {
+    margin-bottom: 10px;
+}
+
+tr {
+    margin-right: 5px;
+    margin-left: 5px;
+}
