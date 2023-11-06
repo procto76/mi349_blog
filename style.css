@@ -51,7 +51,7 @@ img.no-float {
 
 .floatright {
     float: right;
-    width: 100px;
+    width: 400px;
     margin: 0 0 10px 10px;
     div.floatright img { border: 1px solid #000; }
 }
