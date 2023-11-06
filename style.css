@@ -52,10 +52,9 @@ img.no-float {
 .floatright {
     float: right;
     width: 200px;
-    height: 600px;
     margin: 0 0 10px 10px;
     div.floatright img { 
-        max-height: 600px;
+        width: 100%;
         border: 1px solid #000; }
 }
 
