@@ -37,13 +37,9 @@ img.no-float {
     float: right;
 }
 
-.image-container {
-    overflow: hidden;
-}
-
 .image-container img {
     float: right;
-    margin: 0 20px 20px 20px;
+    margin: 20px;
     max-height: 400px;
 }
 
