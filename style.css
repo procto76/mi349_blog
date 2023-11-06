@@ -30,6 +30,7 @@ img.no-float {
 }
 
 .floatright {
+    font-size: small;
     float: right;
     width: 200px;
     margin: 0 0 10px 10px;
