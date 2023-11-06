@@ -52,7 +52,6 @@ img.no-float {
 .floatright {
     float: right;
     width: 200px;
-    height: auto;
     margin: 0 0 10px 10px;
 }
 
