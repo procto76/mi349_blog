@@ -33,6 +33,10 @@ img.no-float {
     float: none;
 }
 
+.float img {
+    float: right;
+}
+
 .image-container img {
     float: right;
     margin: 20px;
