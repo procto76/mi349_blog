@@ -54,10 +54,12 @@ img.no-float {
     width: 200px;
     height: auto;
     margin: 0 0 10px 10px;
-    div.floatright img { 
-        width: 100%;
-        height: auto;
-        border: 1px solid #000; }
+}
+
+.floatright img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #000;
 }
 
 .flex-container {
