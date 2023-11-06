@@ -49,6 +49,13 @@ img.no-float {
     font-style: italic;
 }
 
+.floatright {
+    float: right;
+    width: 100px;
+    margin: 0 0 10px 10px;
+    div.floatright img { border: 1px solid #000; }
+}
+
 .flex-container {
     display: flex;
     justify-content: space-between;
