@@ -71,11 +71,6 @@ img.no-float {
     border-bottom: 2px dotted #505050;
 }
 
-.blog-post img {
-    max-width: 20%;
-    height: auto;
-}
-
 .form-example {
     background: #ccc;
     padding-top: 10px;
