@@ -44,7 +44,7 @@ img.no-float {
 }
 
 .caption {
-    text-align: right;
+    float: right;
     font-size: small;
     font-style: italic;
 }
